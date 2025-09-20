@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi, I'm Ashton 👋
 
+- 😄 Pronouns: They/Her
+- ⚡ Fun fact: My lastest obsession (besides programming 🤪) is DMing for Heart: The City Beneath
+- 🌱 I’m currently learning: Full-Stack Web Development
+- 🔭 I’m currently working on: [This](https://veryexcitedgremlin.github.io/Full-Stack-Boot-Camp/Week4/Session8/module-019-bootstrap-fundamentals/practice/bootstrap-practice.html) Bootstrap Page
+- 😮 Check out my [Projects Page!](https://veryexcitedgremlin.github.io/)
 <!--
 **VeryExcitedGremlin/VeryExcitedGremlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
